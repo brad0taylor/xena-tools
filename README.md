@@ -26,8 +26,8 @@ Downloadable interactive confusion matrix
 
 [Plotly Interactive Web Page](http://htmlpreview.github.io/?https://github.com/brad0taylor/xena-tools/blob/master/normalized%20confusion-matrix.html)
 
-## Python Notebook 
-[Genesets notebook](http://htmlpreview.github.io/?https://github.com/brad0taylor/xena-tools/blob/master/genesets_brad_paths_disp.ipynb)
+## Python Notebook (you may beed to download to view)
+[Genesets notebook](https://github.com/brad0taylor/xena-tools/blob/master/genesets_brad_paths_disp.ipynb)
  Functions
  * reads RNA seq dataset to memory
  * creates Neural Networks to classify RNA sequence data into tissue type and tissue type with tumor
