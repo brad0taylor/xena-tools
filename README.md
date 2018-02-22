@@ -24,7 +24,7 @@ Confusion matrix for decodeing 46 cell types and 46 cell types which are cancer
 
 Downloadable interactive confusion matrix
 
-[Plotly Interactive Web Page](https://github.com/brad0taylor/xena-tools/blob/master/normalized%20confusion-matrix.html)
+[Plotly Interactive Web Page](http://htmlpreview.github.io/?https://github.com/brad0taylor/xena-tools/blob/master/normalized%20confusion-matrix.html)
 
 ## Python Notebook 
 [Genesets notebook](https://github.com/brad0taylor/xena-tools/blob/master/genesets_brad_paths_disp.ipynb)
