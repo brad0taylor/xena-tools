@@ -7,24 +7,24 @@ This repository contains tools for interacting with the UCSD Xenas dataset of RN
 
 A sample of the initial dataset
 
-[Pic](https://github.com/brad0taylor/xena-tools/blob/master/RNA-median.png?raw=true)
+![Pic](https://github.com/brad0taylor/xena-tools/blob/master/RNA-median.png?raw=true)
 
 
 Distance function for Samples
 
-[Pic](https://github.com/brad0taylor/xena-tools/blob/master/Sample-Distance.png?raw=true)
+![Pic](https://github.com/brad0taylor/xena-tools/blob/master/Sample-Distance.png?raw=true)
 
 Distance function for RNA sequences
 
-[Pic](https://github.com/brad0taylor/xena-tools/blob/master/RNA-distance.png?raw=true)
+![Pic](https://github.com/brad0taylor/xena-tools/blob/master/RNA-distance.png?raw=true)
 
 Confusion matrix for decodeing 46 cell types and 46 cell types which are cancer
 
-[Pic](https://github.com/brad0taylor/xena-tools/blob/master/Confusion%20Matrix.png?raw=true)
+![Pic](https://github.com/brad0taylor/xena-tools/blob/master/Confusion%20Matrix.png?raw=true)
 
 Downloadable interactive confusion matrix
 
-[Pic](https://github.com/brad0taylor/xena-tools/blob/master/normalized%20confusion-matrix.html)
+[Plotly Interactive Web Page](https://github.com/brad0taylor/xena-tools/blob/master/normalized%20confusion-matrix.html)
 
 ## Python Notebook 
 [Genesets notebook](https://github.com/brad0taylor/xena-tools/blob/master/genesets_brad_paths_disp.ipynb)
