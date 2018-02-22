@@ -1,7 +1,7 @@
 # xena-tools
 Python scripts for Xena RNAseq repository
 
-This repository contains tools for interacting with the UCSD Xenas dataset of RNA sequence data with samples of 12000 cancer RNA sequences and 8000 normal tissue RNA sequences. The development format is primarialy using Python in Jupyter Notebooks. As time goes on we will also repackage soem of these as python library functions. 
+This repository contains tools for interacting with the UCSD Xenas dataset of RNA sequence data with samples of 12,000 cancer RNA sequences and 8,000 normal tissue RNA sequences. The development format is primarily using Python in Jupyter Notebooks. As time goes on we will also repackage some of these as python library functions. 
 
 ## RNA Sequences and dataset views
 
